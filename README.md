@@ -2,4 +2,4 @@
 
 <hr>
 
-Test_on_data runs with dataset from https://www.kaggle.com/cactus3/basicshapes
+To test the code I've taken the dataset from: https://www.kaggle.com/cactus3/basicshapes
